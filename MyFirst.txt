@@ -1,0 +1,1 @@
+<ROOT><Test Hehe="10, 0, -10"></Test></ROOT>

@@ -1,0 +1,30 @@
+﻿Build started 2014-07-11 오전 8:43:34.
+     1>Project "C:\Users\Mike\Documents\GitHub\Goro3D\Goro3D.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /IC:\GameLib\3DGraphics1\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Core\Pad.cpp
+         Pad.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Mike\Documents\GitHub\Goro3D\Debug\Goro3D.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\GameLib\3DGraphics1\lib GameLib_d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Mike\Documents\GitHub\Goro3D\Debug\Goro3D.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Mike\Documents\GitHub\Goro3D\Debug\Goro3D.lib" /MACHINE:X86 Debug\Attribute.obj
+         Debug\Batch.obj
+         Debug\Camera.obj
+         Debug\Document.obj
+         Debug\Element.obj
+         Debug\ExtTexture.obj
+         Debug\File.obj
+         Debug\GraphicData.obj
+         Debug\IndexBuffer.obj
+         Debug\Matrix34.obj
+         Debug\Matrix44.obj
+         Debug\Model.obj
+         Debug\Pad.obj
+         Debug\Tag.obj
+         Debug\Vector2.obj
+         Debug\Vector3.obj
+         Debug\VertexBuffer.obj
+         Debug\Main.obj
+         Goro3D.vcxproj -> C:\Users\Mike\Documents\GitHub\Goro3D\Debug\Goro3D.exe
+     1>Done Building Project "C:\Users\Mike\Documents\GitHub\Goro3D\Goro3D.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.56
